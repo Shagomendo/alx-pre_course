@@ -1,0 +1,16 @@
+root@644ca69eb60e:/# cd alx_pre-course                                                                                                  
+bash: cd: alx_pre-course: No such file or directory                                                                                     
+root@644ca69eb60e:/# mkdir alx_pre_course                                                                                               
+mkdir: cannot create directory ‘alx_pre_course’: File exists                                                                            
+root@644ca69eb60e:/# cd alx_pre_course                                                                                                  
+root@644ca69eb60e:/alx_pre_course# mkdir 0x01_git                                                                                       
+root@644ca69eb60e:/alx_pre_course#                                                                                                      
+root@644ca69eb60e:/alx_pre_course# echo 'README' > README.md                                                                            
+root@644ca69eb60e:/alx_pre_course#                                                                                                      
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                                                                                                                        
+                                              
